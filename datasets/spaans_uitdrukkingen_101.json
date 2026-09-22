@@ -1,0 +1,976 @@
+{
+  "formatVersion": "1.0",
+  "version": "1.0-expressions",
+  "language": "es-nl",
+  "description": "Spaanse uitdrukkingen uit de twee aangeleverde documenten. Spaanse uitdrukking met Nederlandse vertaling.",
+  "wordCount": 101,
+  "rules": {
+    "uniqueExpression": true,
+    "sourceDocuments": 2,
+    "duplicates": false
+  },
+  "words": [
+    {
+      "id": "expr-001",
+      "spanish": "Madre mía",
+      "english": [
+        "Mijn god!",
+        "Jemig!"
+      ],
+      "wordType": "expression",
+      "rank": 1
+    },
+    {
+      "id": "expr-002",
+      "spanish": "Qué fuerte",
+      "english": [
+        "Ongelooflijk!",
+        "Wat heftig!"
+      ],
+      "wordType": "expression",
+      "rank": 2
+    },
+    {
+      "id": "expr-003",
+      "spanish": "Alucinante",
+      "english": [
+        "Te gek!",
+        "Ongelofelijk!"
+      ],
+      "wordType": "expression",
+      "rank": 3
+    },
+    {
+      "id": "expr-004",
+      "spanish": "Acojonante",
+      "english": [
+        "Keihard!",
+        "Supervet!"
+      ],
+      "wordType": "expression",
+      "rank": 4
+    },
+    {
+      "id": "expr-005",
+      "spanish": "Es una pasada",
+      "english": [
+        "Het is geweldig!",
+        "Echt top!"
+      ],
+      "wordType": "expression",
+      "rank": 5
+    },
+    {
+      "id": "expr-006",
+      "spanish": "Qué pesado eres",
+      "english": [
+        "Wat ben jij irritant!",
+        "Zeur niet zo!"
+      ],
+      "wordType": "expression",
+      "rank": 6
+    },
+    {
+      "id": "expr-007",
+      "spanish": "Ni de coña",
+      "english": [
+        "Geen sprake van!",
+        "Echt niet!"
+      ],
+      "wordType": "expression",
+      "rank": 7
+    },
+    {
+      "id": "expr-008",
+      "spanish": "Para nada",
+      "english": [
+        "Helemaal niet!",
+        "Geen denken aan!"
+      ],
+      "wordType": "expression",
+      "rank": 8
+    },
+    {
+      "id": "expr-009",
+      "spanish": "Qué gilipollas",
+      "english": [
+        "Wat een eikel!",
+        "Wat een sukkel!"
+      ],
+      "wordType": "expression",
+      "rank": 9
+    },
+    {
+      "id": "expr-010",
+      "spanish": "Estoy cabreado",
+      "english": [
+        "Ik ben pissig!",
+        "Ik ben woedend!"
+      ],
+      "wordType": "expression",
+      "rank": 10
+    },
+    {
+      "id": "expr-011",
+      "spanish": "Vaya tela",
+      "english": [
+        "Wat een gedoe!",
+        "Ongelooflijk zeg!"
+      ],
+      "wordType": "expression",
+      "rank": 11
+    },
+    {
+      "id": "expr-012",
+      "spanish": "Tela marinera",
+      "english": [
+        "Dat is heftig!",
+        "Wat een toestand!"
+      ],
+      "wordType": "expression",
+      "rank": 12
+    },
+    {
+      "id": "expr-013",
+      "spanish": "Cuesta un huevo",
+      "english": [
+        "Dat kost klauwen met geld!",
+        "Dat is peperduur!"
+      ],
+      "wordType": "expression",
+      "rank": 13
+    },
+    {
+      "id": "expr-014",
+      "spanish": "Te has pasado un huevo",
+      "english": [
+        "Je bent echt te ver gegaan!",
+        "Dat was overdreven!"
+      ],
+      "wordType": "expression",
+      "rank": 14
+    },
+    {
+      "id": "expr-015",
+      "spanish": "Me he pasado quince pueblos",
+      "english": [
+        "Ik ben echt veel te ver gegaan!"
+      ],
+      "wordType": "expression",
+      "rank": 15
+    },
+    {
+      "id": "expr-016",
+      "spanish": "Es coña / estar de coña",
+      "english": [
+        "Het is een grapje!",
+        "Ik zit te dollen!"
+      ],
+      "wordType": "expression",
+      "rank": 16
+    },
+    {
+      "id": "expr-017",
+      "spanish": "¿De qué vas?",
+      "english": [
+        "Wat denk jij wel?",
+        "Wat is jouw probleem?"
+      ],
+      "wordType": "expression",
+      "rank": 17
+    },
+    {
+      "id": "expr-018",
+      "spanish": "¿Sabes lo que quiero decir?",
+      "english": [
+        "Snap je wat ik bedoel?"
+      ],
+      "wordType": "expression",
+      "rank": 18
+    },
+    {
+      "id": "expr-019",
+      "spanish": "Venga, va",
+      "english": [
+        "Kom op!",
+        "Toe nou!"
+      ],
+      "wordType": "expression",
+      "rank": 19
+    },
+    {
+      "id": "expr-020",
+      "spanish": "Venga hombre",
+      "english": [
+        "Kom op, zeg!",
+        "Echt waar?"
+      ],
+      "wordType": "expression",
+      "rank": 20
+    },
+    {
+      "id": "expr-021",
+      "spanish": "Venga ya",
+      "english": [
+        "No way!",
+        "Dat meen je niet!"
+      ],
+      "wordType": "expression",
+      "rank": 21
+    },
+    {
+      "id": "expr-022",
+      "spanish": "Es tremendo",
+      "english": [
+        "Het is heftig!",
+        "Het is absurd!"
+      ],
+      "wordType": "expression",
+      "rank": 22
+    },
+    {
+      "id": "expr-023",
+      "spanish": "Es horroroso",
+      "english": [
+        "Het is verschrikkelijk!"
+      ],
+      "wordType": "expression",
+      "rank": 23
+    },
+    {
+      "id": "expr-024",
+      "spanish": "Es ideal / Ideal de la muerte",
+      "english": [
+        "Perfect!",
+        "Supergaaf!"
+      ],
+      "wordType": "expression",
+      "rank": 24
+    },
+    {
+      "id": "expr-025",
+      "spanish": "No puedo con mi vida",
+      "english": [
+        "Ik trek het niet meer!",
+        "Ik ben kapot!"
+      ],
+      "wordType": "expression",
+      "rank": 25
+    },
+    {
+      "id": "expr-026",
+      "spanish": "No puedo con los pelos",
+      "english": [
+        "Ik ben er helemaal klaar mee!"
+      ],
+      "wordType": "expression",
+      "rank": 26
+    },
+    {
+      "id": "expr-027",
+      "spanish": "Estoy hecho polvo",
+      "english": [
+        "Ik ben kapot!",
+        "Ik ben doodop!"
+      ],
+      "wordType": "expression",
+      "rank": 27
+    },
+    {
+      "id": "expr-028",
+      "spanish": "¿En serioooooooo?",
+      "english": [
+        "Echt waaaaaar?",
+        "Serieus?!"
+      ],
+      "wordType": "expression",
+      "rank": 28
+    },
+    {
+      "id": "expr-029",
+      "spanish": "Me encanta",
+      "english": [
+        "Ik ben er dol op!"
+      ],
+      "wordType": "expression",
+      "rank": 29
+    },
+    {
+      "id": "expr-030",
+      "spanish": "Me chifla",
+      "english": [
+        "Ik ben gek op!"
+      ],
+      "wordType": "expression",
+      "rank": 30
+    },
+    {
+      "id": "expr-031",
+      "spanish": "Me cago en la leche",
+      "english": [
+        "Verdorie!",
+        "Verdomme!"
+      ],
+      "wordType": "expression",
+      "rank": 31
+    },
+    {
+      "id": "expr-032",
+      "spanish": "Soy la leche",
+      "english": [
+        "Ik ben de beste!",
+        "Ik ben geweldig!"
+      ],
+      "wordType": "expression",
+      "rank": 32
+    },
+    {
+      "id": "expr-033",
+      "spanish": "Tengo mala leche",
+      "english": [
+        "Ik heb een kort lontje!",
+        "Ik ben chagrijnig!"
+      ],
+      "wordType": "expression",
+      "rank": 33
+    },
+    {
+      "id": "expr-034",
+      "spanish": "Son lentejas",
+      "english": [
+        "Je moet het nemen zoals het is!"
+      ],
+      "wordType": "expression",
+      "rank": 34
+    },
+    {
+      "id": "expr-035",
+      "spanish": "Pagar a escote / ir a medias",
+      "english": [
+        "De rekening splitten!"
+      ],
+      "wordType": "expression",
+      "rank": 35
+    },
+    {
+      "id": "expr-036",
+      "spanish": "Ni puta idea",
+      "english": [
+        "Geen flauw idee!"
+      ],
+      "wordType": "expression",
+      "rank": 36
+    },
+    {
+      "id": "expr-037",
+      "spanish": "De perdidos al río",
+      "english": [
+        "Nu zijn we toch al bezig!",
+        "Alles of niets!"
+      ],
+      "wordType": "expression",
+      "rank": 37
+    },
+    {
+      "id": "expr-038",
+      "spanish": "Es una chorrada / tontería / gilipollez",
+      "english": [
+        "Dat is onzin!",
+        "Wat een flauwekul!"
+      ],
+      "wordType": "expression",
+      "rank": 38
+    },
+    {
+      "id": "expr-039",
+      "spanish": "Me parto / Me meo / Me descojono",
+      "english": [
+        "Ik ga stuk!",
+        "Ik lig dubbel!"
+      ],
+      "wordType": "expression",
+      "rank": 39
+    },
+    {
+      "id": "expr-040",
+      "spanish": "Estoy hasta las narices / moño / cojones",
+      "english": [
+        "Ik ben het zat!",
+        "Ik heb er genoeg van!"
+      ],
+      "wordType": "expression",
+      "rank": 40
+    },
+    {
+      "id": "expr-041",
+      "spanish": "Me tiene frito",
+      "english": [
+        "Hij/zij irriteert me kapot!"
+      ],
+      "wordType": "expression",
+      "rank": 41
+    },
+    {
+      "id": "expr-042",
+      "spanish": "Estoy acojonado / cagado",
+      "english": [
+        "Ik ben doodsbang!"
+      ],
+      "wordType": "expression",
+      "rank": 42
+    },
+    {
+      "id": "expr-043",
+      "spanish": "Te cagas",
+      "english": [
+        "Ongelooflijk!",
+        "Echt te gek!"
+      ],
+      "wordType": "expression",
+      "rank": 43
+    },
+    {
+      "id": "expr-044",
+      "spanish": "La madre que te parió",
+      "english": [
+        "Wat een klootzak!",
+        "Godsamme!"
+      ],
+      "wordType": "expression",
+      "rank": 44
+    },
+    {
+      "id": "expr-045",
+      "spanish": "Mola / Mola mogollón",
+      "english": [
+        "Dat is vet!",
+        "Supergaaf!"
+      ],
+      "wordType": "expression",
+      "rank": 45
+    },
+    {
+      "id": "expr-046",
+      "spanish": "Está en el quinto pino / Está a tomar por saco",
+      "english": [
+        "Dat is in the middle of nowhere!",
+        "Dat is ver weg!"
+      ],
+      "wordType": "expression",
+      "rank": 46
+    },
+    {
+      "id": "expr-047",
+      "spanish": "Estoy atacado / de los nervios",
+      "english": [
+        "Ik ben gestrest!",
+        "Ik ben helemaal hyper!"
+      ],
+      "wordType": "expression",
+      "rank": 47
+    },
+    {
+      "id": "expr-048",
+      "spanish": "Me va a dar un jamacuco / algo / un yuyu / un chungo",
+      "english": [
+        "Ik ga flauwvallen!",
+        "Ik krijg een aanval!"
+      ],
+      "wordType": "expression",
+      "rank": 48
+    },
+    {
+      "id": "expr-049",
+      "spanish": "Estoy como una cabra / una regadera",
+      "english": [
+        "Ik ben knettergek!",
+        "Ik ben helemaal gestoord!"
+      ],
+      "wordType": "expression",
+      "rank": 49
+    },
+    {
+      "id": "expr-050",
+      "spanish": "Estoy feliz como una perdiz",
+      "english": [
+        "Ik ben dolgelukkig!"
+      ],
+      "wordType": "expression",
+      "rank": 50
+    },
+    {
+      "id": "expr-051",
+      "spanish": "Eres un quejica",
+      "english": [
+        "Wat een zeurpiet!"
+      ],
+      "wordType": "expression",
+      "rank": 51
+    },
+    {
+      "id": "expr-052",
+      "spanish": "Eres un tiquismiquis",
+      "english": [
+        "Wat een mierenneuker!",
+        "Wat een pietje-precies!"
+      ],
+      "wordType": "expression",
+      "rank": 52
+    },
+    {
+      "id": "expr-053",
+      "spanish": "Es lo que hay",
+      "english": [
+        "Het is wat het is!"
+      ],
+      "wordType": "expression",
+      "rank": 53
+    },
+    {
+      "id": "expr-054",
+      "spanish": "Ni peros….ni peras",
+      "english": [
+        "Geen gemaar!",
+        "Niks te zeuren!"
+      ],
+      "wordType": "expression",
+      "rank": 54
+    },
+    {
+      "id": "expr-055",
+      "spanish": "Ni pa ti ni pa mi",
+      "english": [
+        "Laten we het zo doen!",
+        "50/50!"
+      ],
+      "wordType": "expression",
+      "rank": 55
+    },
+    {
+      "id": "expr-056",
+      "spanish": "La que nos espera",
+      "english": [
+        "Dit wordt een ramp!"
+      ],
+      "wordType": "expression",
+      "rank": 56
+    },
+    {
+      "id": "expr-057",
+      "spanish": "El mundo se va a la mierda",
+      "english": [
+        "De wereld gaat naar de klote!"
+      ],
+      "wordType": "expression",
+      "rank": 57
+    },
+    {
+      "id": "expr-058",
+      "spanish": "Pues sí / pues no",
+      "english": [
+        "Tja, ja…",
+        "Tja, nee…"
+      ],
+      "wordType": "expression",
+      "rank": 58
+    },
+    {
+      "id": "expr-059",
+      "spanish": "¿Pero qué me estás contando?",
+      "english": [
+        "Wat zeg jij nou weer?!"
+      ],
+      "wordType": "expression",
+      "rank": 59
+    },
+    {
+      "id": "expr-060",
+      "spanish": "Como te lo digo te lo cuento",
+      "english": [
+        "Zoals ik het zeg, zo is het!"
+      ],
+      "wordType": "expression",
+      "rank": 60
+    },
+    {
+      "id": "expr-061",
+      "spanish": "Basta ya",
+      "english": [
+        "Genoeg is genoeg!",
+        "Kappen nou!"
+      ],
+      "wordType": "expression",
+      "rank": 61
+    },
+    {
+      "id": "expr-062",
+      "spanish": "Bueno…oye / Mira…oye",
+      "english": [
+        "Luister eens…",
+        "Hé, luister…"
+      ],
+      "wordType": "expression",
+      "rank": 62
+    },
+    {
+      "id": "expr-063",
+      "spanish": "Que sea lo que Dios quiera",
+      "english": [
+        "We zien wel!",
+        "Het is wat het is!"
+      ],
+      "wordType": "expression",
+      "rank": 63
+    },
+    {
+      "id": "expr-064",
+      "spanish": "Halaaaaa",
+      "english": [
+        "Wooooow!",
+        "Nou zeg!"
+      ],
+      "wordType": "expression",
+      "rank": 64
+    },
+    {
+      "id": "expr-065",
+      "spanish": "Sí, hombre",
+      "english": [
+        "Ja, tuurlijk! (ironisch)"
+      ],
+      "wordType": "expression",
+      "rank": 65
+    },
+    {
+      "id": "expr-066",
+      "spanish": "Bueno, bueno, bueno, bueno….",
+      "english": [
+        "Nou, nou, nou…"
+      ],
+      "wordType": "expression",
+      "rank": 66
+    },
+    {
+      "id": "expr-067",
+      "spanish": "Descojono absoluto",
+      "english": [
+        "Dat is echt hilarisch!"
+      ],
+      "wordType": "expression",
+      "rank": 67
+    },
+    {
+      "id": "expr-068",
+      "spanish": "Fijo",
+      "english": [
+        "Zeker weten!"
+      ],
+      "wordType": "expression",
+      "rank": 68
+    },
+    {
+      "id": "expr-069",
+      "spanish": "En plan / Tipo",
+      "english": [
+        "Zoiets als…",
+        "Een soort van!"
+      ],
+      "wordType": "expression",
+      "rank": 69
+    },
+    {
+      "id": "expr-070",
+      "spanish": "Me da cosa / palo / pena / vergüenza",
+      "english": [
+        "Ik voel me er ongemakkelijk bij!",
+        "Ik schaam me!"
+      ],
+      "wordType": "expression",
+      "rank": 70
+    },
+    {
+      "id": "expr-071",
+      "spanish": "No te pases / Cómo te pasas",
+      "english": [
+        "Doe normaal!",
+        "Wat overdreven!"
+      ],
+      "wordType": "expression",
+      "rank": 71
+    },
+    {
+      "id": "expr-072",
+      "spanish": "Estoy babeando",
+      "english": [
+        "Ik loop te kwijlen!",
+        "Wat lekker!"
+      ],
+      "wordType": "expression",
+      "rank": 72
+    },
+    {
+      "id": "expr-073",
+      "spanish": "¿Cómo cojones…?",
+      "english": [
+        "Hoe de fuck…?!"
+      ],
+      "wordType": "expression",
+      "rank": 73
+    },
+    {
+      "id": "expr-074",
+      "spanish": "Pues tú me dirás",
+      "english": [
+        "Jij mag het zeggen!",
+        "Zeg het maar!"
+      ],
+      "wordType": "expression",
+      "rank": 74
+    },
+    {
+      "id": "expr-075",
+      "spanish": "Pues ya ves",
+      "english": [
+        "Nou ja, dat dus!",
+        "Tja…"
+      ],
+      "wordType": "expression",
+      "rank": 75
+    },
+    {
+      "id": "expr-076",
+      "spanish": "No me suena / No me suena de nada",
+      "english": [
+        "Dat zegt me niks!"
+      ],
+      "wordType": "expression",
+      "rank": 76
+    },
+    {
+      "id": "expr-077",
+      "spanish": "Me suena mogollón / Me suena de algo",
+      "english": [
+        "Dat komt me bekend voor!"
+      ],
+      "wordType": "expression",
+      "rank": 77
+    },
+    {
+      "id": "expr-078",
+      "spanish": "Joeeeee….",
+      "english": [
+        "Jeeeemig!"
+      ],
+      "wordType": "expression",
+      "rank": 78
+    },
+    {
+      "id": "expr-079",
+      "spanish": "Mierda",
+      "english": [
+        "Shit!"
+      ],
+      "wordType": "expression",
+      "rank": 79
+    },
+    {
+      "id": "expr-080",
+      "spanish": "Ni tan mal",
+      "english": [
+        "Nog niet eens zo slecht!"
+      ],
+      "wordType": "expression",
+      "rank": 80
+    },
+    {
+      "id": "expr-081",
+      "spanish": "Poco bien",
+      "english": [
+        "Niet slecht"
+      ],
+      "wordType": "expression",
+      "rank": 81
+    },
+    {
+      "id": "expr-082",
+      "spanish": "Estar en las nubes",
+      "english": [
+        "Met je hoofd in de wolken zijn"
+      ],
+      "wordType": "expression",
+      "rank": 82
+    },
+    {
+      "id": "expr-083",
+      "spanish": "Ser la leche",
+      "english": [
+        "Dat was geweldig (positief)",
+        "Dat was verschrikkelijk (negatief)"
+      ],
+      "wordType": "expression",
+      "rank": 83
+    },
+    {
+      "id": "expr-084",
+      "spanish": "No dar pie con bola",
+      "english": [
+        "Alles verkeerd doen"
+      ],
+      "wordType": "expression",
+      "rank": 84
+    },
+    {
+      "id": "expr-085",
+      "spanish": "Tener mala leche",
+      "english": [
+        "Een slecht humeur hebben"
+      ],
+      "wordType": "expression",
+      "rank": 85
+    },
+    {
+      "id": "expr-086",
+      "spanish": "Estar hecho polvo",
+      "english": [
+        "Helemaal kapot zijn"
+      ],
+      "wordType": "expression",
+      "rank": 86
+    },
+    {
+      "id": "expr-087",
+      "spanish": "Ser torpe",
+      "english": [
+        "Onhandig zijn"
+      ],
+      "wordType": "expression",
+      "rank": 87
+    },
+    {
+      "id": "expr-088",
+      "spanish": "Ir a su bola",
+      "english": [
+        "Zijn eigen ding doen"
+      ],
+      "wordType": "expression",
+      "rank": 88
+    },
+    {
+      "id": "expr-089",
+      "spanish": "Montar un pollo",
+      "english": [
+        "Een scène maken"
+      ],
+      "wordType": "expression",
+      "rank": 89
+    },
+    {
+      "id": "expr-090",
+      "spanish": "Tener un morro que se lo pisa",
+      "english": [
+        "Misbruik van anderen maken"
+      ],
+      "wordType": "expression",
+      "rank": 90
+    },
+    {
+      "id": "expr-091",
+      "spanish": "Estar al loro",
+      "english": [
+        "Op je hoede zijn"
+      ],
+      "wordType": "expression",
+      "rank": 91
+    },
+    {
+      "id": "expr-092",
+      "spanish": "Flipar en colores",
+      "english": [
+        "Overdonderd zijn"
+      ],
+      "wordType": "expression",
+      "rank": 92
+    },
+    {
+      "id": "expr-093",
+      "spanish": "Ser un yogurín",
+      "english": [
+        "Een jonge gast zijn"
+      ],
+      "wordType": "expression",
+      "rank": 93
+    },
+    {
+      "id": "expr-094",
+      "spanish": "Estar como una cabra",
+      "english": [
+        "Gek zijn"
+      ],
+      "wordType": "expression",
+      "rank": 94
+    },
+    {
+      "id": "expr-095",
+      "spanish": "No tener pelos en la lengua",
+      "english": [
+        "Zeggen wat je denkt"
+      ],
+      "wordType": "expression",
+      "rank": 95
+    },
+    {
+      "id": "expr-096",
+      "spanish": "Quedarse frito",
+      "english": [
+        "In slaap vallen"
+      ],
+      "wordType": "expression",
+      "rank": 96
+    },
+    {
+      "id": "expr-097",
+      "spanish": "Ir de punta en blanco",
+      "english": [
+        "Tot in de puntjes gekleed gaan"
+      ],
+      "wordType": "expression",
+      "rank": 97
+    },
+    {
+      "id": "expr-098",
+      "spanish": "Estar en el quinto pino",
+      "english": [
+        "In de middle of nowhere of ver zijn"
+      ],
+      "wordType": "expression",
+      "rank": 98
+    },
+    {
+      "id": "expr-099",
+      "spanish": "Ser un crack",
+      "english": [
+        "Een topper zijn in iets"
+      ],
+      "wordType": "expression",
+      "rank": 99
+    },
+    {
+      "id": "expr-100",
+      "spanish": "Tener mala pata",
+      "english": [
+        "Ongeluk hebben"
+      ],
+      "wordType": "expression",
+      "rank": 100
+    },
+    {
+      "id": "expr-101",
+      "spanish": "Cortar el rollo",
+      "english": [
+        "De sfeer verpesten"
+      ],
+      "wordType": "expression",
+      "rank": 101
+    }
+  ]
+}

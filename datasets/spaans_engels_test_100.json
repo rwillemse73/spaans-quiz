@@ -1,0 +1,925 @@
+{
+  "formatVersion": "1.0",
+  "version": "1.0-test100",
+  "language": "es-en",
+  "description": "Testwoordenlijst voor de Spaanse quiz-app: 100 woorden.",
+  "wordCount": 100,
+  "rules": {
+    "uniqueLemma": true,
+    "nounsSingularOnly": true,
+    "verbsInfinitiveOnly": true,
+    "duplicates": false
+  },
+  "words": [
+    {
+      "id": 1,
+      "spanish": "de",
+      "english": [
+        "of, from"
+      ],
+      "wordType": "prep",
+      "rank": 2
+    },
+    {
+      "id": 2,
+      "spanish": "que",
+      "english": [
+        "that, which"
+      ],
+      "wordType": "conj",
+      "rank": 3
+    },
+    {
+      "id": 3,
+      "spanish": "y",
+      "english": [
+        "and"
+      ],
+      "wordType": "conj",
+      "rank": 4
+    },
+    {
+      "id": 4,
+      "spanish": "a",
+      "english": [
+        "to, at"
+      ],
+      "wordType": "prep",
+      "rank": 5
+    },
+    {
+      "id": 5,
+      "spanish": "en",
+      "english": [
+        "in, on"
+      ],
+      "wordType": "prep",
+      "rank": 6
+    },
+    {
+      "id": 6,
+      "spanish": "un",
+      "english": [
+        "a, an"
+      ],
+      "wordType": "art",
+      "rank": 7
+    },
+    {
+      "id": 7,
+      "spanish": "ser",
+      "english": [
+        "to be (norm)",
+        "being"
+      ],
+      "wordType": "v v-irr v-irr-preterit; nm",
+      "rank": 8
+    },
+    {
+      "id": 8,
+      "spanish": "se",
+      "english": [
+        "the reflexive marker"
+      ],
+      "wordType": "pron pron-ref",
+      "rank": 9
+    },
+    {
+      "id": 9,
+      "spanish": "no",
+      "english": [
+        "no"
+      ],
+      "wordType": "adv",
+      "rank": 10
+    },
+    {
+      "id": 10,
+      "spanish": "haber",
+      "english": [
+        "to have"
+      ],
+      "wordType": "v-aux",
+      "rank": 11
+    },
+    {
+      "id": 11,
+      "spanish": "por",
+      "english": [
+        "by, for, through"
+      ],
+      "wordType": "prep",
+      "rank": 12
+    },
+    {
+      "id": 12,
+      "spanish": "con",
+      "english": [
+        "with"
+      ],
+      "wordType": "prep",
+      "rank": 13
+    },
+    {
+      "id": 13,
+      "spanish": "su",
+      "english": [
+        "his/her/their/your (formal)"
+      ],
+      "wordType": "adj",
+      "rank": 14
+    },
+    {
+      "id": 14,
+      "spanish": "para",
+      "english": [
+        "for, to, in order to"
+      ],
+      "wordType": "prep",
+      "rank": 15
+    },
+    {
+      "id": 15,
+      "spanish": "como",
+      "english": [
+        "like, as"
+      ],
+      "wordType": "conj",
+      "rank": 16
+    },
+    {
+      "id": 16,
+      "spanish": "estar",
+      "english": [
+        "to be (location, change from norm)"
+      ],
+      "wordType": "v v-irr-preterit",
+      "rank": 17
+    },
+    {
+      "id": 17,
+      "spanish": "tener",
+      "english": [
+        "to have"
+      ],
+      "wordType": "v v-irr v-irr-preterit",
+      "rank": 18
+    },
+    {
+      "id": 18,
+      "spanish": "le",
+      "english": [
+        "3rd person indir obj"
+      ],
+      "wordType": "pron pron-ind pron-dir",
+      "rank": 19
+    },
+    {
+      "id": 19,
+      "spanish": "lo",
+      "english": [
+        "the (neuter art)",
+        "3rd person dir obj-m"
+      ],
+      "wordType": "art; pron pron-direct pron-dir",
+      "rank": 20
+    },
+    {
+      "id": 20,
+      "spanish": "todo",
+      "english": [
+        "all, every"
+      ],
+      "wordType": "adj",
+      "rank": 22
+    },
+    {
+      "id": 21,
+      "spanish": "pero",
+      "english": [
+        "but, yet, except"
+      ],
+      "wordType": "conj",
+      "rank": 23
+    },
+    {
+      "id": 22,
+      "spanish": "más",
+      "english": [
+        "more"
+      ],
+      "wordType": "adj",
+      "rank": 24
+    },
+    {
+      "id": 23,
+      "spanish": "hacer",
+      "english": [
+        "to do, to make"
+      ],
+      "wordType": "v v-irr-yo v-t v-irr-preterit",
+      "rank": 25
+    },
+    {
+      "id": 24,
+      "spanish": "o",
+      "english": [
+        "or"
+      ],
+      "wordType": "conj",
+      "rank": 26
+    },
+    {
+      "id": 25,
+      "spanish": "poder",
+      "english": [
+        "to be able to, can",
+        "power"
+      ],
+      "wordType": "v v-irr v-irr-preterit; nm",
+      "rank": 27
+    },
+    {
+      "id": 26,
+      "spanish": "decir",
+      "english": [
+        "to tell, say"
+      ],
+      "wordType": "v v-t v-irr-yo v-irr-preterit",
+      "rank": 28
+    },
+    {
+      "id": 27,
+      "spanish": "ir",
+      "english": [
+        "to go"
+      ],
+      "wordType": "v v-irr v-irr-preterit",
+      "rank": 30
+    },
+    {
+      "id": 28,
+      "spanish": "otro",
+      "english": [
+        "other, another"
+      ],
+      "wordType": "adj",
+      "rank": 31
+    },
+    {
+      "id": 29,
+      "spanish": "la",
+      "english": [
+        "3rd person dir obj-f"
+      ],
+      "wordType": "pron pron-direct pron-dir",
+      "rank": 33
+    },
+    {
+      "id": 30,
+      "spanish": "si",
+      "english": [
+        "if, whether"
+      ],
+      "wordType": "conj",
+      "rank": 34
+    },
+    {
+      "id": 31,
+      "spanish": "me",
+      "english": [
+        "me"
+      ],
+      "wordType": "pron pron-ind pron-direct pron-ref pron-dir",
+      "rank": 35
+    },
+    {
+      "id": 32,
+      "spanish": "ya",
+      "english": [
+        "already, still"
+      ],
+      "wordType": "adv",
+      "rank": 36
+    },
+    {
+      "id": 33,
+      "spanish": "ver",
+      "english": [
+        "to see"
+      ],
+      "wordType": "v v-irr-yo",
+      "rank": 37
+    },
+    {
+      "id": 34,
+      "spanish": "porque",
+      "english": [
+        "because"
+      ],
+      "wordType": "conj",
+      "rank": 38
+    },
+    {
+      "id": 35,
+      "spanish": "dar",
+      "english": [
+        "to give"
+      ],
+      "wordType": "v v-t v-irr-yo v-irr-preterit-",
+      "rank": 39
+    },
+    {
+      "id": 36,
+      "spanish": "cuando",
+      "english": [
+        "when"
+      ],
+      "wordType": "adv; conj",
+      "rank": 40
+    },
+    {
+      "id": 37,
+      "spanish": "él",
+      "english": [
+        "he, [ellos] them (m)"
+      ],
+      "wordType": "pron pron-subj",
+      "rank": 41
+    },
+    {
+      "id": 38,
+      "spanish": "muy",
+      "english": [
+        "very, really"
+      ],
+      "wordType": "adv",
+      "rank": 42
+    },
+    {
+      "id": 39,
+      "spanish": "sin",
+      "english": [
+        "without"
+      ],
+      "wordType": "prep",
+      "rank": 43
+    },
+    {
+      "id": 40,
+      "spanish": "vez",
+      "english": [
+        "time (specific occurrence)"
+      ],
+      "wordType": "nf",
+      "rank": 44
+    },
+    {
+      "id": 41,
+      "spanish": "mucho",
+      "english": [
+        "much, many, a lot"
+      ],
+      "wordType": "adj adv",
+      "rank": 45
+    },
+    {
+      "id": 42,
+      "spanish": "saber",
+      "english": [
+        "knowledge",
+        "to know (a fact), find out"
+      ],
+      "wordType": "nm; v v-irr-yo v-irr-preterit",
+      "rank": 46
+    },
+    {
+      "id": 43,
+      "spanish": "qué",
+      "english": [
+        "what?, which?, how (adj)!"
+      ],
+      "wordType": "adj",
+      "rank": 47
+    },
+    {
+      "id": 44,
+      "spanish": "sobre",
+      "english": [
+        "on top of, over, about"
+      ],
+      "wordType": "prep",
+      "rank": 48
+    },
+    {
+      "id": 45,
+      "spanish": "mi",
+      "english": [
+        "my (singular)"
+      ],
+      "wordType": "adj",
+      "rank": 49
+    },
+    {
+      "id": 46,
+      "spanish": "alguno",
+      "english": [
+        "some, someone"
+      ],
+      "wordType": "adj pron",
+      "rank": 50
+    },
+    {
+      "id": 47,
+      "spanish": "mismo",
+      "english": [
+        "same"
+      ],
+      "wordType": "adj",
+      "rank": 51
+    },
+    {
+      "id": 48,
+      "spanish": "yo",
+      "english": [
+        "I"
+      ],
+      "wordType": "pron pron-subj",
+      "rank": 52
+    },
+    {
+      "id": 49,
+      "spanish": "también",
+      "english": [
+        "also"
+      ],
+      "wordType": "adv",
+      "rank": 53
+    },
+    {
+      "id": 50,
+      "spanish": "hasta",
+      "english": [
+        "until, up to",
+        "even"
+      ],
+      "wordType": "prep; adv",
+      "rank": 54
+    },
+    {
+      "id": 51,
+      "spanish": "año",
+      "english": [
+        "year"
+      ],
+      "wordType": "nm",
+      "rank": 55
+    },
+    {
+      "id": 52,
+      "spanish": "dos",
+      "english": [
+        "two"
+      ],
+      "wordType": "num",
+      "rank": 56
+    },
+    {
+      "id": 53,
+      "spanish": "querer",
+      "english": [
+        "to want, love"
+      ],
+      "wordType": "v v-irr v-irr-preterit",
+      "rank": 57
+    },
+    {
+      "id": 54,
+      "spanish": "entre",
+      "english": [
+        "between, among"
+      ],
+      "wordType": "prep",
+      "rank": 58
+    },
+    {
+      "id": 55,
+      "spanish": "así",
+      "english": [
+        "like that"
+      ],
+      "wordType": "adv",
+      "rank": 59
+    },
+    {
+      "id": 56,
+      "spanish": "primero",
+      "english": [
+        "first"
+      ],
+      "wordType": "adj",
+      "rank": 60
+    },
+    {
+      "id": 57,
+      "spanish": "desde",
+      "english": [
+        "from, since"
+      ],
+      "wordType": "prep",
+      "rank": 61
+    },
+    {
+      "id": 58,
+      "spanish": "grande",
+      "english": [
+        "large, great, big"
+      ],
+      "wordType": "adj",
+      "rank": 62
+    },
+    {
+      "id": 59,
+      "spanish": "eso",
+      "english": [
+        "that"
+      ],
+      "wordType": "pron",
+      "rank": 63
+    },
+    {
+      "id": 60,
+      "spanish": "ni",
+      "english": [
+        "not even, neither, nor"
+      ],
+      "wordType": "conj",
+      "rank": 64
+    },
+    {
+      "id": 61,
+      "spanish": "nos",
+      "english": [
+        "us"
+      ],
+      "wordType": "pron pron-ind pron-direct pron-ref pron-dir",
+      "rank": 65
+    },
+    {
+      "id": 62,
+      "spanish": "llegar",
+      "english": [
+        "to arrive"
+      ],
+      "wordType": "v",
+      "rank": 66
+    },
+    {
+      "id": 63,
+      "spanish": "pasar",
+      "english": [
+        "to pass, spend time, happen"
+      ],
+      "wordType": "v",
+      "rank": 67
+    },
+    {
+      "id": 64,
+      "spanish": "tiempo",
+      "english": [
+        "time (general), weather"
+      ],
+      "wordType": "nm",
+      "rank": 68
+    },
+    {
+      "id": 65,
+      "spanish": "ella",
+      "english": [
+        "she"
+      ],
+      "wordType": "pron pron-subj",
+      "rank": 69
+    },
+    {
+      "id": 66,
+      "spanish": "ellas",
+      "english": [
+        "they"
+      ],
+      "wordType": "pron-pf pron pron-subj",
+      "rank": 69
+    },
+    {
+      "id": 67,
+      "spanish": "sí",
+      "english": [
+        "yes"
+      ],
+      "wordType": "adv",
+      "rank": 70
+    },
+    {
+      "id": 68,
+      "spanish": "día",
+      "english": [
+        "day"
+      ],
+      "wordType": "nm",
+      "rank": 71
+    },
+    {
+      "id": 69,
+      "spanish": "uno",
+      "english": [
+        "one"
+      ],
+      "wordType": "num",
+      "rank": 72
+    },
+    {
+      "id": 70,
+      "spanish": "bien",
+      "english": [
+        "goods, property, benefit",
+        "well"
+      ],
+      "wordType": "nm; adv",
+      "rank": 73
+    },
+    {
+      "id": 71,
+      "spanish": "poco",
+      "english": [
+        "little"
+      ],
+      "wordType": "adj adv pron",
+      "rank": 74
+    },
+    {
+      "id": 72,
+      "spanish": "deber",
+      "english": [
+        "duty, obligation",
+        "should, ought to",
+        "to owe"
+      ],
+      "wordType": "nm; v",
+      "rank": 75
+    },
+    {
+      "id": 73,
+      "spanish": "entonces",
+      "english": [
+        "so, then"
+      ],
+      "wordType": "adv",
+      "rank": 76
+    },
+    {
+      "id": 74,
+      "spanish": "poner",
+      "english": [
+        "to put on"
+      ],
+      "wordType": "v v-irr-yo v-irr-preterit",
+      "rank": 77
+    },
+    {
+      "id": 75,
+      "spanish": "cosa",
+      "english": [
+        "thing"
+      ],
+      "wordType": "nf",
+      "rank": 78
+    },
+    {
+      "id": 76,
+      "spanish": "tanto",
+      "english": [
+        "so much, so many"
+      ],
+      "wordType": "adj",
+      "rank": 79
+    },
+    {
+      "id": 77,
+      "spanish": "hombre",
+      "english": [
+        "man, mankind, husband"
+      ],
+      "wordType": "nm",
+      "rank": 80
+    },
+    {
+      "id": 78,
+      "spanish": "parecer",
+      "english": [
+        "opinion, looks",
+        "to seem, look like"
+      ],
+      "wordType": "nm; v v-int",
+      "rank": 81
+    },
+    {
+      "id": 79,
+      "spanish": "nuestro",
+      "english": [
+        "our"
+      ],
+      "wordType": "adj",
+      "rank": 82
+    },
+    {
+      "id": 80,
+      "spanish": "tan",
+      "english": [
+        "such, as, too, so"
+      ],
+      "wordType": "adv",
+      "rank": 83
+    },
+    {
+      "id": 81,
+      "spanish": "donde",
+      "english": [
+        "where"
+      ],
+      "wordType": "conj",
+      "rank": 84
+    },
+    {
+      "id": 82,
+      "spanish": "ahora",
+      "english": [
+        "now"
+      ],
+      "wordType": "adv",
+      "rank": 85
+    },
+    {
+      "id": 83,
+      "spanish": "parte",
+      "english": [
+        "part, portion"
+      ],
+      "wordType": "nf",
+      "rank": 86
+    },
+    {
+      "id": 84,
+      "spanish": "después",
+      "english": [
+        "after"
+      ],
+      "wordType": "adv",
+      "rank": 87
+    },
+    {
+      "id": 85,
+      "spanish": "vida",
+      "english": [
+        "life"
+      ],
+      "wordType": "nf",
+      "rank": 88
+    },
+    {
+      "id": 86,
+      "spanish": "quedar",
+      "english": [
+        "to remain, stay"
+      ],
+      "wordType": "v v-int v-ref",
+      "rank": 89
+    },
+    {
+      "id": 87,
+      "spanish": "siempre",
+      "english": [
+        "always, forever"
+      ],
+      "wordType": "adv",
+      "rank": 90
+    },
+    {
+      "id": 88,
+      "spanish": "creer",
+      "english": [
+        "to believe, think"
+      ],
+      "wordType": "v",
+      "rank": 91
+    },
+    {
+      "id": 89,
+      "spanish": "hablar",
+      "english": [
+        "to speak, talk"
+      ],
+      "wordType": "v",
+      "rank": 92
+    },
+    {
+      "id": 90,
+      "spanish": "llevar",
+      "english": [
+        "to take, carry, wear"
+      ],
+      "wordType": "v",
+      "rank": 93
+    },
+    {
+      "id": 91,
+      "spanish": "dejar",
+      "english": [
+        "to let, leave"
+      ],
+      "wordType": "v",
+      "rank": 94
+    },
+    {
+      "id": 92,
+      "spanish": "nada",
+      "english": [
+        "nothing, not at all"
+      ],
+      "wordType": "pron",
+      "rank": 95
+    },
+    {
+      "id": 93,
+      "spanish": "cada",
+      "english": [
+        "each, every"
+      ],
+      "wordType": "adj",
+      "rank": 96
+    },
+    {
+      "id": 94,
+      "spanish": "seguir",
+      "english": [
+        "to follow, to go on"
+      ],
+      "wordType": "v",
+      "rank": 97
+    },
+    {
+      "id": 95,
+      "spanish": "menos",
+      "english": [
+        "less, fewer"
+      ],
+      "wordType": "adj",
+      "rank": 98
+    },
+    {
+      "id": 96,
+      "spanish": "nuevo",
+      "english": [
+        "new"
+      ],
+      "wordType": "adj",
+      "rank": 99
+    },
+    {
+      "id": 97,
+      "spanish": "encontrar",
+      "english": [
+        "to find"
+      ],
+      "wordType": "v v-irr",
+      "rank": 100
+    },
+    {
+      "id": 98,
+      "spanish": "algo",
+      "english": [
+        "something, somewhat"
+      ],
+      "wordType": "pron",
+      "rank": 101
+    },
+    {
+      "id": 99,
+      "spanish": "solo",
+      "english": [
+        "lonely, alone",
+        "only, just"
+      ],
+      "wordType": "adj; adv",
+      "rank": 102
+    },
+    {
+      "id": 100,
+      "spanish": "pues",
+      "english": [
+        "then, well then"
+      ],
+      "wordType": "conj",
+      "rank": 103
+    }
+  ]
+}
